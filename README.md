@@ -1,6 +1,6 @@
 # Hackathon-BAAH
 #### Made for the Fall 2016 [HackISU](http://hackisu.org/) hackathon.
-Contributors: William Fries, Isaac Speed, Preston Jordan, Lewis Amos
+Contributors: [William Fries](https://github.com/FriesW), [Isaac Speed](https://github.com/isaacspeed), Preston Jordan, [Lewis Amos](https://github.com/LewisII)
 
 ## Why?
 Frequently we find ourselves without a CAH deck when we want to play, and all the online versions lack necessary traits of the dead tree version, thus leaving us socially unsatisfied with the mediocre compromise. This is our half-ass solution for anytime play.
